@@ -1,7 +1,5 @@
 def merge(*lst):
     lst=[]
-    # lst=lst1+lst2
-    # OR
     for i in lst1:
         lst.append(i)
     for i in lst2:
